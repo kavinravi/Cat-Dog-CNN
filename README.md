@@ -48,7 +48,6 @@ Ensure you have the following installed:
 - TensorFlow/Keras
 - NumPy
 - pandas
-- Matplotlib (optional, for visualizations)
 
 Install dependencies using:
 ```bash
@@ -90,7 +89,6 @@ python src/predict_cnn.py --input <path_to_input_data>
 
 ## Results and Visualizations
 The trained CNN achieves the following metrics:
-- **Accuracy**: xx% on the test set.
-- **Loss**: yy% on the test set.
+- **Accuracy**: 89.6% on the test set.
+- **Loss**: 25.76% on the test set.
 
-Visualization of training accuracy and loss is available in `train_cnn.py`. Modify the script to save plots.
