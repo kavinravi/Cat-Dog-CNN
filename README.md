@@ -19,6 +19,8 @@ This project implements a Convolutional Neural Network (CNN) for classifying ima
 ### 3. **cat_dog_classifier.keras**
 - The trained CNN model exported in HDF5 format for future predictions.
 
+### 4. Sample Images
+- Some of my dog and friend's dogs & cats for testing :)
 ---
 
 ## Dataset
